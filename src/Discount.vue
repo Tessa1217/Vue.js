@@ -6,9 +6,6 @@
 <script>
 export default {
   name: "DiscountComponent",
-  data() {
-    return {};
-  },
   props: {
     discountRate: Number,
   },

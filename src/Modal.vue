@@ -26,8 +26,8 @@ export default {
   },
   data() {
     return {
-      totalPrice: "",
       month: 1,
+      totalPrice: "",
     };
   },
   props: {

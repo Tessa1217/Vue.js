@@ -113,13 +113,13 @@ export default {
         return a.title < b.title ? -1 : 1;
       });
     },
+    sortBack() {
+      this.roomList = [...this.originalRoomList];
+    },
     belowFifty() {
       this.roomList = this.roomList.filter((room) => {
         return room.price < 500000;
       });
-    },
-    sortBack() {
-      this.roomList = [...this.originalRoomList];
     },
   },
   components: {

@@ -27,3 +27,6 @@ pnpm-debug.log*
 *.sln
 *.sw?
 *.md
+src/assets/room0.jpg
+src/assets/room1.jpg
+src/assets/room2.jpg

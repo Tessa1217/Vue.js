@@ -6,7 +6,7 @@
     <h4 @click="sendOpenModal()" class="room-title">
       {{ room.title }}
     </h4>
-    <p>{{ room.price }} 원</p>
+    <p>{{ room.price }}원</p>
   </div>
 </template>
 
