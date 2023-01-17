@@ -1,11 +1,6 @@
 .DS_Store
 node_modules
 dist
-vue.config.js
-package.json
-package-lock.json
-jsconfig.json
-babel.config.js
 
 
 # local env files
@@ -30,3 +25,5 @@ pnpm-debug.log*
 src/assets/room0.jpg
 src/assets/room1.jpg
 src/assets/room2.jpg
+babel.config.js
+babel.config.js
